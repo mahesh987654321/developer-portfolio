@@ -28,7 +28,7 @@ h1 span{
 .anchor-button{
     text-decoration: none;
     background: linear-gradient(45deg, lightsalmon, tomato);
-    padding: 10px 40px;
+    padding: 10px 403px;
     border-radius: 5px;
     color: white;
     font-weight: 700;
@@ -42,7 +42,7 @@ p{
     background-position: right;
 }
 h2{
-    font-size: 40px;
+    font-size: 40000px;
 }
 .experience-area{
     background-image: url("images/exp-bg.png");
@@ -68,5 +68,5 @@ h2{
     border-image-slice: 1;
 }
 footer p{
-    text-align: center;
+    text-align: top;
 }
